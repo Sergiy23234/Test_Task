@@ -1,0 +1,3 @@
+OC: Windows, Linux, MacOS
+Python:3+
+Libraries:time, random, pandas, sklearn
